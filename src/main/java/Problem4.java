@@ -1,5 +1,4 @@
-import java.io.*;
-import java.util.*;
+import java.util.Scanner;
 //Java Stdin and Stdout II
 public class Problem4 {
 

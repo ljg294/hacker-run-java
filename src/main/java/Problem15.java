@@ -1,5 +1,7 @@
 import java.math.BigDecimal;
-import java.util.*;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.Scanner;
 
 //Java BigDecimal
 public class Problem15 {
