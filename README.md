@@ -22,6 +22,8 @@
 * Problem 17 - Java Pattern Syntax Checker
 * Problem 18 - Java Regex
 * Problem 19 - Java Regex 2 - Duplicate Words
+* Problem 20 - Java String Introduction 
+* Problem 21 - Java Substring (Java 7)
 
 
 
