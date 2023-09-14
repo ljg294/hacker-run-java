@@ -24,6 +24,8 @@
 * Problem 19 - Java Regex 2 - Duplicate Words
 * Problem 20 - Java String Introduction 
 * Problem 21 - Java Substring (Java 7)
+* Problem 22 - Java Substring Comparison
+* Problem 23 - Java String Reverse
 
 
 
