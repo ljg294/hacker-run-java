@@ -26,6 +26,7 @@
 * Problem 21 - Java Substring (Java 7)
 * Problem 22 - Java Substring Comparison
 * Problem 23 - Java String Reverse
+* Problem 24 - Java Anagrams
 
 
 
