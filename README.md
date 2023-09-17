@@ -13,7 +13,7 @@
 * Problem 8 - Java Datatypes
 * Problem 9 - Java End-of-file
 * Problem 10 - Java Static Initializer Block
-* Problem 11 - //Java Int to String
+* Problem 11 - Java Int to String
 * Problem 12 - Java Date and Time
 * Problem 13 - Java Currency Formatter
 * Problem 14 - Java BigInteger
@@ -29,6 +29,7 @@
 * Problem 24 - Java Anagrams
 * Problem 25 - Java String Tokens
 * Problem 26 - Java Valid Username Regular Expression
+* Problem 26 - Java String Tag Content Extractor
 
 
 
