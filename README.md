@@ -29,7 +29,9 @@
 * Problem 24 - Java Anagrams
 * Problem 25 - Java String Tokens
 * Problem 26 - Java Valid Username Regular Expression
-* Problem 26 - Java String Tag Content Extractor
+* Problem 27 - Java String Tag Content Extractor
+* Problem 28 - Java Lambda Expressions
+* Problem 28 - Java MD5
 
 
 
