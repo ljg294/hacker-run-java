@@ -31,7 +31,8 @@
 * Problem 26 - Java Valid Username Regular Expression
 * Problem 27 - Java String Tag Content Extractor
 * Problem 28 - Java Lambda Expressions
-* Problem 28 - Java MD5
+* Problem 29 - Java MD5
+* Problem 30 - Java SHA-256
 
 
 
