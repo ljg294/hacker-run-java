@@ -33,7 +33,8 @@
 * Problem 28 - Java Lambda Expressions
 * Problem 29 - Java MD5
 * Problem 30 - Java SHA-256
-* Problem 30 - Java 1D Array
+* Problem 31 - Java 1D Array
+* Problem 32 - Java 2D Array
 
 
 

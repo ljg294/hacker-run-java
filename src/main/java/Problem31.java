@@ -1,4 +1,3 @@
-import java.security.MessageDigest;
 import java.util.Scanner;
 
 //Java 1D Array
