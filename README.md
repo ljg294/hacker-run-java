@@ -36,7 +36,9 @@
 * Problem 31 - Java 1D Array
 * Problem 32 - Java 2D Array
 * Problem 33 - Java Data Structures Java Subarray
-* Problem 33 - Java Data Structures Java ArrayList
+* Problem 34 - Java Data Structures Java ArrayList
+* Problem 35 - Java Data Structures Java 1D Array (Part 2)
+* Problem 36 - Java Data Structures Java List
 
 
 
