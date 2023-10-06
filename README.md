@@ -41,8 +41,9 @@
 * Problem 36 - Java Data Structures Java List
 * Problem 37 - Java Data Structures Java Map
 * Problem 38 - Java Data Structures Java Stack
-* Problem 38 - Java Data Structures Java HashSet
-* Problem 38 - Java Data Structures Java Generics
+* Problem 39 - Java Data Structures Java HashSet
+* Problem 40 - Java Data Structures Java Generics
+* Problem 41 - Java Data Structures Java Comparator
 
 
 
