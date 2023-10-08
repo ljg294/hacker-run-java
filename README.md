@@ -46,6 +46,7 @@
 * Problem 41 - Java Data Structures Java Comparator
 * Problem 42 - Java Data Structures Java Sort
 * Problem 43 - Java Data Structures Java Dequeue
+* Problem 44 - Java Data Structures Java BitSet
 
 
 
