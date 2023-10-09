@@ -47,7 +47,9 @@
 * Problem 42 - Java Data Structures Java Sort
 * Problem 43 - Java Data Structures Java Dequeue
 * Problem 44 - Java Data Structures Java BitSet
-* Problem 44 - Java Data Structures Data Java Inheritance I
+* Problem 45 - Java Data Structures Java Priority Queue
+* Problem 46 - Java Data Structures Data Java Inheritance I
+* Problem 47 - Java Data Structures Data Java Inheritance II
 
 
 
