@@ -50,7 +50,8 @@
 * Problem 45 - Java Data Structures Java Priority Queue
 * Problem 46 - Java Data Structures Data Java Inheritance I
 * Problem 47 - Java Data Structures Data Java Inheritance II
-* Problem 47 - Java Data Structures Data Java Abstract Class
+* Problem 48 - Java Data Structures Data Java Abstract Class
+* Problem 49 - Java Data Structures Data Java Interface
 
 
 
