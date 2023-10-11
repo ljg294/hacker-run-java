@@ -1,5 +1,5 @@
 
-//Java Data Structures Data Java Inheritance I
+//Java Object Oriented Programming Java Inheritance I
 
 class Animal{
     void walk(){

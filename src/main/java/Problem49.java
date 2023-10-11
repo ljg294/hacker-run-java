@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Java Data Structures Data Java Interface
+//Java Object Oriented Programming Java Interface
 interface AdvancedArithmetic
 {
     public abstract int divisorSum(int n);

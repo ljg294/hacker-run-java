@@ -1,5 +1,5 @@
 
-//Java Data Structures Data Java Method Overriding
+//Java Object Oriented Programming Java Method Overriding
 class Sports{
 
     String getName(){

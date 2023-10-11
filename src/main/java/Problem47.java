@@ -1,5 +1,5 @@
 
-//Java Data Structures Data Java Inheritance II
+//Java Object Oriented Programming Java Inheritance II
 class Arithmetic
 {
     public int add(int a, int b)

@@ -1,7 +1,7 @@
 import java.util.BitSet;
 import java.util.Scanner;
 
-//Java Data Structures Data Java BitSet
+//Java Object Oriented Programming Java Abstract Class
 
 abstract class Book{
     String title;

@@ -48,11 +48,12 @@
 * Problem 43 - Java Data Structures Java Dequeue
 * Problem 44 - Java Data Structures Java BitSet
 * Problem 45 - Java Data Structures Java Priority Queue
-* Problem 46 - Java Data Structures Data Java Inheritance I
-* Problem 47 - Java Data Structures Data Java Inheritance II
-* Problem 48 - Java Data Structures Data Java Abstract Class
-* Problem 49 - Java Data Structures Data Java Interface
-* Problem 49 - Java Data Structures Data Java Method Overriding
+* Problem 46 - Java Object Oriented Programming Java Inheritance I
+* Problem 47 - Java Object Oriented Programming Java Inheritance II
+* Problem 48 - Java Object Oriented Programming Java Abstract Class
+* Problem 49 - Java Object Oriented Programming Java Interface
+* Problem 50 - Java Object Oriented Programming Java Method Overriding
+* Problem 51 - Java Object Oriented Programming Java Method Overriding 2 (Super Keyword)
 
 
 
