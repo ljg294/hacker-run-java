@@ -58,6 +58,8 @@
 * Problem 53 - Java Object Oriented Programming Java Iterator
 * Problem 54 - Java Exception Handling Java Exception Handling (Try-catch)
 * Problem 55 - Java Exception Handling Java Exception Handling
+* Problem 56 - Java Advanced Prime Checker
+
 
 
 
