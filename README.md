@@ -60,6 +60,7 @@
 * Problem 55 - Java Exception Handling Java Exception Handling
 * Problem 56 - Java Advanced Prime Checker
 * Problem 57 - Java Advanced Factory Pattern
+* Problem 58 - Java Advanced Java Singleton Pattern
 
 
 
