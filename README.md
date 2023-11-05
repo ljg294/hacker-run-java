@@ -61,6 +61,9 @@
 * Problem 56 - Java Advanced Prime Checker
 * Problem 57 - Java Advanced Factory Pattern
 * Problem 58 - Java Advanced Java Singleton Pattern
+* Problem 59 - Java Advanced Java Visitor Pattern
+* Problem 60 - Java Advanced Java Annotations
+* Problem 61 - Java Advanced Covariant Return Types
 
 
 
