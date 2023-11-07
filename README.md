@@ -64,6 +64,9 @@
 * Problem 59 - Java Advanced Java Visitor Pattern
 * Problem 60 - Java Advanced Java Annotations
 * Problem 61 - Java Advanced Covariant Return Types
+* Problem 62 - Java Advanced Can You Access?
+* Problem 63 - Java Advanced Java Varargs - Simple Addition
+* Problem 64 - Java Advanced Java Reflection - Attributes
 
 
 
